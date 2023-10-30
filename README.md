@@ -10,6 +10,4 @@ Model :
 
 Random Forest
 
-Accuracy :
-
-90.79%
+Accuracy : 90.79%
